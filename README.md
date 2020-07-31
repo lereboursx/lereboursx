@@ -1,16 +1,43 @@
-### Hi there 👋
+## Hola, Merhaba, Привет. I'm a human.👋
 
-<!--
-**lereboursx/lereboursx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### What my human brain looks like v1.0-beta
+> electroencephalogram. I can process
+at the same time but you know the effect.
+©lereboursx
+```
+                                      output
+                                        |
+            __________________________________________________________
+            | ------------------------------------------------------  |
+            | |                       Core 1                       |  |
+            | ------------------------------------------------------  |
+            |                           |                             |
+            | ------------------------------------------------------  |
+            | |                    Black box                       |  |
+            | ------------------------------------------------------  |
+            |                           |                             |
+            | -------------  -------------  ------------ ------------ |
+            | | Neurone 1 |  | Neurone 2 |  | Neuron 3 | | Neuron 4 | |
+            | -------------  -------------  ------------ ------------ |
+            |_________________________________________________________|
+                                        |
+                                      input
 
-Here are some ideas to get you started:
+```
+### Contributing
+open a pull request. 🔥💪
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### TODO 
+- Increase neurons.
+- Increase neurons-pool and cores
+- Multiple black boxes
+- Apply adapter pattern
+
+### Me
+- 🔭 I’m currently working for paid projects
+- 🌱 I’m currently learning about philosophy of computer science
+- 👯 I’m looking to collaborate on OSS
+- 💬 Ask me about [telegram](https://t.me/lereboursx) or [twitter](https://twitter.com/lereboursx)
+
+
+
